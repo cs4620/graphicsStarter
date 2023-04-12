@@ -1,4 +1,4 @@
-# Start Code for 2D Graphics: Image Processing
+# Start Code for Rendering
 
 ## java
 
